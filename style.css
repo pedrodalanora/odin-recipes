@@ -7,3 +7,19 @@ h1 {
     background-color: rgb(120, 155, 244);
 }
 
+.color li {
+    font-size: 20px;
+    text-align: center;
+    list-style: square;
+}
+
+.recipe-photo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 500px;
+}
+
+#rotate {
+    
+}
