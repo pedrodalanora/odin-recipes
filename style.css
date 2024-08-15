@@ -20,6 +20,14 @@ h1 {
     width: 500px;
 }
 
-#rotate {
-    
+h3 {
+  background-color: aqua; 
+  text-align: center; 
+}
+
+button {
+    font-size: 18px;
+    background-color: red;
+    color: white;
+    border-radius: 5%;
 }
